@@ -22,7 +22,7 @@ btnVoltar.addEventListener('click', function(){
 })
 
 btnAvancar.addEventListener('click', function(){
-    if(secaoAtual === secoes.length -1) return
+    if(secaoAtual === secoes.length - 1) return
 
     esconderSecaoSelecionada()
 

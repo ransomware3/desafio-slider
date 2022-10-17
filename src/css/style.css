@@ -72,8 +72,27 @@ body{
 
 .image .container-text .know-more{
     font-weight: 700;
-    color: rgb(255, 0, 0);
     font-size: 0.9rem;
+}
+
+
+.image .container-text .btn-rosa{
+    color: #c50000;
+}
+
+
+.image .container-text .btn-amarelo{
+    color: #d9dd10;
+}
+
+
+.image .container-text .btn-laranja{
+    color: #a63a17;
+}
+
+
+.image .container-text .btn-azul{
+    color: #10acdd;
 }
 
 
@@ -87,4 +106,6 @@ label img{
     cursor: pointer;
 }
 
-
+.defaut{
+    cursor: default;
+}
